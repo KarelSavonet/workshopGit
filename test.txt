@@ -1,3 +1,4 @@
 dit is een test
 extra lijn
 extra lijn om git pull te testen
+wijziging op laptop zelf
